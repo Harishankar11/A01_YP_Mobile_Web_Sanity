@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Mobile_VDL_Listing">
+    <classes>
+      <class name="listingProfile.AA1_Mobile_VDL_Listing"/>
+    </classes>
+  </test> 
+  <test name="Mobile_NonCore_Listing">
+    <classes>
+      <class name="listingProfile.AA2_Mobile_NonCore_Listing"/>
+    </classes>
+  </test> 
+  <test name="Mobile_VDL_Profile">
+    <classes>
+      <class name="listingProfile.AA3_Mobile_VDL_Profile"/>
+    </classes>
+  </test>
+ <test name="A1_MDLD_with_Locality">
+    <classes>
+      <class name="lcfFaces.A1_MDLD_with_Locality"/>
+    </classes>
+  </test> 
+  <test name="A2_MDLD_attribute_page">
+    <classes>
+      <class name="lcfFaces.A2_MDLD_attribute_page"/>
+    </classes>
+  </test>
+  <test name="A3_MDLD_attribute_locality">
+    <classes>
+      <class name="lcfFaces.A3_MDLD_attribute_locality"/>
+    </classes>
+  </test> 
+  <test name="A4_MDLD_Brand_locality_U2B">
+    <classes>
+      <class name="lcfFaces.A4_MDLD_Brand_locality_U2B"/>
+    </classes>
+  </test>
+  <test name="A5_MDLD_Brand_locality_B2U">
+    <classes>
+      <class name="lcfFaces.A5_MDLD_Brand_locality_B2U"/>
+    </classes>
+  </test>
+  <test name="A6_MDLD_Listing_GetQuote">
+    <classes>
+      <class name="lcfFaces.A6_MDLD_Listing_GetQuote"/>
+    </classes>
+  </test>
+  <test name="A7_MDLD_B2U_Locality_LCF">
+    <classes>
+      <class name="lcfFaces.A7_MDLD_B2U_Locality_LCF"/>
+    </classes>
+  </test>
+  <test name="A8_MDLD_U2B_Locality_LCF">
+    <classes>
+      <class name="lcfFaces.A8_MDLD_U2B_Locality_LCF"/>
+    </classes>
+  </test>
+  <test name="A9_MDLD_Need_page">
+    <classes>
+      <class name="lcfFaces.A9_MDLD_Need_page"/>
+    </classes>
+  </test>
+  <test name="B1_MDLD_FreeProfile_GetQuote">
+    <classes>
+      <class name="lcfFaces.B1_MDLD_FreeProfile_GetQuote"/>
+    </classes>
+  </test>
+  <test name="B2_MDLD_PaidProfile_GetQuote">
+    <classes>
+      <class name="lcfFaces.B2_MDLD_PaidProfile_GetQuote"/>
+    </classes>
+  </test>
+  <test name="B3_MDLD_Standalone">
+    <classes>
+      <class name="lcfFaces.B3_MDLD_Standalone"/>
+    </classes>
+  </test>
+  <test name="B4_MDLD_SEM_Page">
+    <classes>
+      <class name="lcfFaces.B4_MDLD_SEM_Page"/>
+    </classes>
+  </test>
+  <test name="B5_MDLD_SEM_Manda_md_ai">
+    <classes>
+      <class name="lcfFaces.B5_MDLD_SEM_Manda_md_ai"/>
+    </classes>
+  </test>
+  <test name="B6_AdditionalInfo_Mand_Other">
+    <classes>
+      <class name="lcfFaces.B6_AdditionalInfo_Mand_Other"/>
+    </classes>
+  </test>
+  <test name="B7_MDLD_DateSelectionLCF">
+    <classes>
+      <class name="lcfFaces.B7_MDLD_DateSelectionLCF"/>
+    </classes>
+  </test>
+  <test name="B8_Cakeshops_LCF">
+    <classes>
+      <class name="lcfFaces.B8_Cakeshops_LCF"/>
+    </classes>
+  </test>
+  <test name="B9_Internet_Providers_LCF">
+    <classes>
+      <class name="lcfFaces.B9_Internet_Providers_LCF"/>
+    </classes>
+  </test>
+  <test name="C1_SearchEnterbutton">
+    <classes>
+      <class name="lcfFaces.C1_SearchEnterbutton"/>
+    </classes>
+  </test>
+  <test name="C2_SearchAjexSelect">
+    <classes>
+      <class name="lcfFaces.C2_SearchAjexSelect"/>
+    </classes>
+  </test>
+  <test name="C3_AttributeType">
+    <classes>
+      <class name="lcfFaces.C3_AttributeType"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

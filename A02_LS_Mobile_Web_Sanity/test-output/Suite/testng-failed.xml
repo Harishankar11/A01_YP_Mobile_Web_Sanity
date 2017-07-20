@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Mobile_VDL_Listing(failed)">
+    <classes>
+      <class name="lcfFaces.B5_MDLD_SEM_Manda_md_ai">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B5_MDLD_SEM_Manda_md_ai -->
+      <class name="lcfFaces.C3_AttributeType">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C3_AttributeType -->
+      <class name="lcfFaces.A3_MDLD_attribute_locality">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A3_MDLD_attribute_locality -->
+      <class name="lcfFaces.C2_SearchAjexSelect">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C2_SearchAjexSelect -->
+      <class name="listingProfile.AA2_Mobile_NonCore_Listing">
+        <methods>
+          <include name="after"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- listingProfile.AA2_Mobile_NonCore_Listing -->
+      <class name="lcfFaces.B6_AdditionalInfo_Mand_Other">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B6_AdditionalInfo_Mand_Other -->
+      <class name="lcfFaces.A8_MDLD_U2B_Locality_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A8_MDLD_U2B_Locality_LCF -->
+      <class name="lcfFaces.A4_MDLD_Brand_locality_U2B">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A4_MDLD_Brand_locality_U2B -->
+      <class name="lcfFaces.C1_SearchEnterbutton">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C1_SearchEnterbutton -->
+      <class name="lcfFaces.B8_Cakeshops_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B8_Cakeshops_LCF -->
+      <class name="listingProfile.AA3_Mobile_VDL_Profile">
+        <methods>
+          <include name="before"/>
+          <include name="after"/>
+        </methods>
+      </class> <!-- listingProfile.AA3_Mobile_VDL_Profile -->
+      <class name="lcfFaces.A1_MDLD_with_Locality">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A1_MDLD_with_Locality -->
+      <class name="lcfFaces.B1_MDLD_FreeProfile_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B1_MDLD_FreeProfile_GetQuote -->
+      <class name="lcfFaces.A5_MDLD_Brand_locality_B2U">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A5_MDLD_Brand_locality_B2U -->
+      <class name="lcfFaces.B2_MDLD_PaidProfile_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B2_MDLD_PaidProfile_GetQuote -->
+      <class name="lcfFaces.B7_MDLD_DateSelectionLCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B7_MDLD_DateSelectionLCF -->
+      <class name="listingProfile.AA1_Mobile_VDL_Listing">
+        <methods>
+          <include name="after"/>
+          <include name="TC002_Listing_SavetoPhone"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- listingProfile.AA1_Mobile_VDL_Listing -->
+      <class name="lcfFaces.A2_MDLD_attribute_page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A2_MDLD_attribute_page -->
+      <class name="lcfFaces.B4_MDLD_SEM_Page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B4_MDLD_SEM_Page -->
+      <class name="lcfFaces.A6_MDLD_Listing_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A6_MDLD_Listing_GetQuote -->
+      <class name="lcfFaces.A7_MDLD_B2U_Locality_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A7_MDLD_B2U_Locality_LCF -->
+      <class name="lcfFaces.B9_Internet_Providers_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B9_Internet_Providers_LCF -->
+      <class name="lcfFaces.B3_MDLD_Standalone">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B3_MDLD_Standalone -->
+      <class name="lcfFaces.A9_MDLD_Need_page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A9_MDLD_Need_page -->
+    </classes>
+  </test> <!-- Mobile_VDL_Listing(failed) -->
+  <test name="Mobile_NonCore_Listing(failed)">
+    <classes>
+      <class name="lcfFaces.B5_MDLD_SEM_Manda_md_ai">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B5_MDLD_SEM_Manda_md_ai -->
+      <class name="lcfFaces.C3_AttributeType">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C3_AttributeType -->
+      <class name="lcfFaces.A3_MDLD_attribute_locality">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A3_MDLD_attribute_locality -->
+      <class name="listingProfile.AA2_Mobile_NonCore_Listing">
+        <methods>
+          <include name="after"/>
+          <include name="TC002_Listing_SavetoPhone"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- listingProfile.AA2_Mobile_NonCore_Listing -->
+      <class name="lcfFaces.C2_SearchAjexSelect">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C2_SearchAjexSelect -->
+      <class name="lcfFaces.B6_AdditionalInfo_Mand_Other">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B6_AdditionalInfo_Mand_Other -->
+      <class name="lcfFaces.A8_MDLD_U2B_Locality_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A8_MDLD_U2B_Locality_LCF -->
+      <class name="lcfFaces.A4_MDLD_Brand_locality_U2B">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A4_MDLD_Brand_locality_U2B -->
+      <class name="lcfFaces.C1_SearchEnterbutton">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.C1_SearchEnterbutton -->
+      <class name="lcfFaces.B8_Cakeshops_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B8_Cakeshops_LCF -->
+      <class name="listingProfile.AA3_Mobile_VDL_Profile">
+        <methods>
+          <include name="before"/>
+          <include name="after"/>
+        </methods>
+      </class> <!-- listingProfile.AA3_Mobile_VDL_Profile -->
+      <class name="lcfFaces.A1_MDLD_with_Locality">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A1_MDLD_with_Locality -->
+      <class name="lcfFaces.B1_MDLD_FreeProfile_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B1_MDLD_FreeProfile_GetQuote -->
+      <class name="lcfFaces.A5_MDLD_Brand_locality_B2U">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A5_MDLD_Brand_locality_B2U -->
+      <class name="lcfFaces.B2_MDLD_PaidProfile_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B2_MDLD_PaidProfile_GetQuote -->
+      <class name="lcfFaces.B7_MDLD_DateSelectionLCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B7_MDLD_DateSelectionLCF -->
+      <class name="listingProfile.AA1_Mobile_VDL_Listing">
+        <methods>
+          <include name="after"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- listingProfile.AA1_Mobile_VDL_Listing -->
+      <class name="lcfFaces.A2_MDLD_attribute_page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A2_MDLD_attribute_page -->
+      <class name="lcfFaces.B4_MDLD_SEM_Page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B4_MDLD_SEM_Page -->
+      <class name="lcfFaces.A6_MDLD_Listing_GetQuote">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A6_MDLD_Listing_GetQuote -->
+      <class name="lcfFaces.A7_MDLD_B2U_Locality_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A7_MDLD_B2U_Locality_LCF -->
+      <class name="lcfFaces.B9_Internet_Providers_LCF">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B9_Internet_Providers_LCF -->
+      <class name="lcfFaces.B3_MDLD_Standalone">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.B3_MDLD_Standalone -->
+      <class name="lcfFaces.A9_MDLD_Need_page">
+        <methods>
+          <include name="quit"/>
+          <include name="MobileChromeBrowser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- lcfFaces.A9_MDLD_Need_page -->
+    </classes>
+  </test> <!-- Mobile_NonCore_Listing(failed) -->
+</suite> <!-- Failed suite [Suite] -->
